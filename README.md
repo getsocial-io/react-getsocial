@@ -18,4 +18,4 @@ getsocial.include(site_id);
 
 Where the `site_id` argument is your website identifier, an alphanumeric string with 6 or 8 characters.
 
-Please read how to find your website identifier here.
+Please contact GetSocial, at support@getsocial.io, to find out your website identifier.
