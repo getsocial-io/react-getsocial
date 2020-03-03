@@ -1,0 +1,23 @@
+{
+    "name": "react-getsocial",
+    "version": "1.0.0",
+    "description": "Include GetSocial on your website",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "Goncalo Mendes Ferreira",
+    "scripts": {
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/getsocial-io/react-getsocial.git"
+    },
+    "keywords": [
+        "GetSocial",
+        "React"
+    ],
+    "bugs": {
+        "url": "https://github.com/getsocial-io/react-getsocial/issues"
+    },
+    "homepage": "https://getsocial.io/"
+}
